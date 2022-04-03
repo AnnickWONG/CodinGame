@@ -33,10 +33,11 @@ For each of the `Q` filenames, display on a line the corresponding _MIME type_. 
 * File names are composed of a maximum of 256 alphanumerical ASCII characters and dots (full stops).
 * There are no spaces in the file names, extensions or _MIME types_.
 
+---
 ## Example
 
-```
 **Input**
+```
 3
 3
 html text/html
@@ -47,8 +48,8 @@ portrait.png
 index.html
 pdf
 ```
-```
 **Output**
+```
 image/gif
 image/png
 text/html
