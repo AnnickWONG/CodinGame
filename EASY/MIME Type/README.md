@@ -1,5 +1,5 @@
 # MIME types
-
+[puzzle link](https://www.codingame.com/training/easy/mime-type)
 ### The Goal
 _MIME types_ are used in numerous internet protocols to associate a media type (html, image, video ...) with the content sent. The _MIME type_ is generally inferred from the extension of the file to be sent.
 
