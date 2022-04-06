@@ -1,6 +1,7 @@
 # Equivqlent Resistance, Circuit Building
-## Goal
+
 [puzzel link](https://www.codingame.com/training/easy/equivalent-resistance-circuit-building)
+## Goal
 Calculate the equivalent resistance of a circuit containing only resistors.
 
 A resistor is a component used in electrical circuits. A resistor is quantified by its Resistance, which is measured in Ohms. We are interested in knowing the total resistance of a circuit of only resistors. There are two key definitions needed to determine the resistance of multiple resistors.
