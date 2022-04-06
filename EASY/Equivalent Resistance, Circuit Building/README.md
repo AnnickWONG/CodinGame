@@ -1,4 +1,6 @@
-# Goal
+# Equivqlent Resistance, Circuit Building
+## Goal
+[puzzel link](https://www.codingame.com/training/easy/equivalent-resistance-circuit-building)
 Calculate the equivalent resistance of a circuit containing only resistors.
 
 A resistor is a component used in electrical circuits. A resistor is quantified by its Resistance, which is measured in Ohms. We are interested in knowing the total resistance of a circuit of only resistors. There are two key definitions needed to determine the resistance of multiple resistors.
@@ -57,7 +59,7 @@ This will look something like this:
 [ ( A B ) [ C A ] ] => [ 24+8 1/(1/48+1/24) ] => [ 32 16 ] => 1/(1/32+1/16) => 32/3 => 10.666... => 10.7
 
 ---
-
+## Conditions
 ### Input
 Line **1**: An integer `N` for the number of unique resistors present in the circuit
 Next `N` lines: A space separated name and the integer resistance `R` of a resistor
