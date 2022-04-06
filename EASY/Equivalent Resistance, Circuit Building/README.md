@@ -59,7 +59,7 @@ This will look something like this:
 
 [ ( A B ) [ C A ] ] => [ 24+8 1/(1/48+1/24) ] => [ 32 16 ] => 1/(1/32+1/16) => 32/3 => 10.666... => 10.7
 
----
+
 ## Conditions
 ### Input
 Line **1**: An integer `N` for the number of unique resistors present in the circuit
@@ -73,7 +73,7 @@ The equivalent resistance expressed as a float rounded to the nearest 0.1 Ohms.
 0 < `N` < 10
 0 < `R` < 100
 
----
+
 ## Example
 
 **Input**
