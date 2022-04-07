@@ -43,9 +43,15 @@ A **single line** comprised of two integers `C1` and `C2` separated by a space. 
 
 ### Constraints
 2 ≤ `N` ≤ 500
+
 1 ≤ `L` ≤ 1000
+
 1 ≤ `E` ≤ 20
+
 0 ≤ `N1`, `N2` < N
+
 0 ≤ `SI` < N
+
 0 ≤ `C1`, `C2` < N
+
 Response time per turn ≤ 150ms
