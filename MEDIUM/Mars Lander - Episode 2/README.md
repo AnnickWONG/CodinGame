@@ -1,5 +1,6 @@
 # Mars Lander - Episode 2
 [puzzle link](https://www.codingame.com/training/medium/mars-lander-episode-2)
+
 [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1)
 
 ## The Goal
